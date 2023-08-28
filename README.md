@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shama09fir
-- 👀 I’m interested in Java and JavaScript
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning JavaScript and .Net
 - 💞️ I’m looking to collaborate on... 
 - 📫 How to reach me ...
 
